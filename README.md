@@ -6,7 +6,7 @@ AstraLens is an interactive web platform that transforms massive lunar image arc
 [![NASA Space Apps Challenge 2025](https://img.shields.io/badge/NASA_Space_Apps-2025-blue)](https://www.spaceappschallenge.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**[➡️ View Live Demo]((https://alokh-k.github.io/nasa/))**
+**[➡️ View Live Demo](https://alokh-k.github.io/nasa/)**
 
 ![AstraLens Screenshot]([link-to-your-screenshot.png])
 ---
