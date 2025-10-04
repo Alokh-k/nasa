@@ -1,4 +1,4 @@
-# nasa space apps challenge
+# Nasa Space Apps Challenge
 # AstraLens - Interactive Lunar Explorer 🚀
 
 AstraLens is an interactive web platform that transforms massive lunar image archives from NASA missions into an intuitive, visual explorer.
