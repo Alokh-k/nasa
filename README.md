@@ -8,7 +8,6 @@ AstraLens is an interactive web platform that transforms massive lunar image arc
 
 **[➡️ View Live Demo](https://alokh-k.github.io/nasa/)**
 
-![AstraLens Screenshot]([link-to-your-screenshot.png])
 ---
 
 ## 📖 About The Project
